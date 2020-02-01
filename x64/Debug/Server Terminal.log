@@ -1,0 +1,4 @@
+﻿  Serversock.cpp
+C:\Users\Ryad\source\repos\Server Terminal\Serversock.cpp(23,61): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ryad\source\repos\Server Terminal\Serversock.cpp(23,61): warning C4267: C:\Users\Ryad\source\repos\Server Terminal\Serversock.cpp(88) : error C4716: 'Serversock::ConnectionAccept': must return a value
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" exited with code 2.
